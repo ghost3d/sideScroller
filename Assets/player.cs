@@ -3,13 +3,7 @@ using System.Collections;
 
 public class player : MonoBehaviour {
 	public Vector2 speed = new Vector2(50,50);
-	// Use this for initialization
-	void Start () 
-	{
 
-
-	}
-	
 	// Update is called once per frame
 	void Update () {
 		float inputX = Input.GetAxis("Horizontal");
