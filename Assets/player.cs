@@ -13,4 +13,5 @@ public class player : MonoBehaviour {
 		movement *= Time.deltaTime;
 		transform.Translate(movement);
 	}
+	
 }
