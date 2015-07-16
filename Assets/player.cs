@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class player : MonoBehaviour {
-	public Vector2 speed = new Vector2(50,50);
+	public Vector2 speed = new Vector2(10,10);
 
 	// Update is called once per frame
 	void Update () {
